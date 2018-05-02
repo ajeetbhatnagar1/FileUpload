@@ -1,0 +1,16 @@
+{
+  "name": "node_file",
+  "version": "1.0.0",
+  "description": "File upload Nodejs API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "multer":"*"
+  },
+  "author": "Ajeet Bhatnagar",
+  "license": "MIT"
+}
